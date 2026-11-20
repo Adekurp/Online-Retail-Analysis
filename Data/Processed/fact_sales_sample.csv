@@ -1,4 +1,4 @@
-﻿source_row_id,invoice_no,stock_code,description,quantity,invoice_date,price,customer_id,country,revenue,is_cancelled,is_negative_quantity,year,month,year_month,day_name,hour,is_bad_debt,is_zero_price,transaction_status
+﻿source_row_id,invoice_no,stock_code,descriptions,quantity,invoice_date,price,customer_id,country,revenue,is_cancelled,is_negative_quantity,year,month,year_month,day_name,hour,is_bad_debt,is_zero_price,transaction_status
 1473,489572,22029,space boy birthday card,12,2009-12-01 13:29:00,0.42,17611,United Kingdom,5.04,False,False,2009,12,2009-12,Tuesday,13,False,False,Valid Sale
 1534,489573,84510A,set of 4 english rose coasters,1,2009-12-01 13:29:00,1.25,15051,United Kingdom,1.25,False,False,2009,12,2009-12,Tuesday,13,False,False,Valid Sale
 2209,489597,35598B,black christmas tree 60cm,1,2009-12-01 14:28:00,6.91,,United Kingdom,6.91,False,False,2009,12,2009-12,Tuesday,14,False,False,Valid Sale

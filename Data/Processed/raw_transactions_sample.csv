@@ -1,4 +1,4 @@
-﻿source_row_id,invoice_no,stock_code,description,quantity,invoice_date,price,customer_id,country,revenue,is_cancelled,is_negative_quantity,year,month,year_month,day_name,hour,is_bad_debt,is_zero_price,transaction_status
+﻿source_row_id,invoice_no,stock_code,descriptions,quantity,invoice_date,price,customer_id,country,revenue,is_cancelled,is_negative_quantity,year,month,year_month,day_name,hour,is_bad_debt,is_zero_price,transaction_status
 184,C489449,84946,antique silver tea glass etched,-12,2009-12-01 10:33:00,1.25,16321,Australia,-15.0,True,True,2009,12,2009-12,Tuesday,10,False,False,Cancellation
 263,489464,21733,85123a mixed,-96,2009-12-01 10:52:00,0.0,,United Kingdom,-0.0,False,True,2009,12,2009-12,Tuesday,10,False,True,Return / Negative Quantity
 734,C489534,35832,woolly hat sock glove advent string,-1,2009-12-01 12:09:00,5.95,12615,France,-5.95,True,True,2009,12,2009-12,Tuesday,12,False,False,Cancellation
